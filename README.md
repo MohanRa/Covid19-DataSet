@@ -27,3 +27,6 @@ Tot cases per 1M population - Ratio of case out of 1M population
 
 Total Deaths per 1M population - Death ratio case out of 1M population
 
+>>>
+New Data will be updated before or by 10 AM IST
+
