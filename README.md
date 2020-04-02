@@ -3,6 +3,9 @@ Data Extracted from https://www.worldometers.info/  - Daily data
 
 Source: https://www.worldometers.info/coronavirus/
 
+Interactive Dashboard:
+https://datastudio.google.com/reporting/ffe12c40-806f-47f1-8d61-022db8092390
+
 Fields
 
 Date - Date on data extracted
